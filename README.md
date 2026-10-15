@@ -154,6 +154,8 @@ This repository uses the framework from our survey paper to systematically organ
 <details>
   <summary><b>Advanced Training Strategies</b></summary>
 
+  - [arXiv2026] Distilling Routed 3D Privilege for Spatial Reasoning in Vision-Language Models [[paper]](https://arxiv.org/abs/2610.12355) [[code]](https://github.com/ZJU-REAL/GPD);
+
   - [arXiv2023] What Makes for Good Visual Tokenizers for Large Language Models (_National University of Singapore 2ARC Lab_) [[paper]](https://arxiv.org/pdf/2305.12223) [[code]](https://github.com/TencentARC/GVT) [[checkpoint]](https://github.com/TencentARC/GVT/tree/master/gvt);
 
   - [arXiv2025] SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning (_Huawei Noah's Ark Lab_) [[paper]](https://arxiv.org/pdf/2501.10074);
